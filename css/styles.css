@@ -14,15 +14,15 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #FF69B4;
+    background-color: #ff69b4;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F8C8DC;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #E0B0FF;
 }
 
 /* Styles for lists in the document */
