@@ -12,7 +12,6 @@ body {
   font-style: normal;
 }
 
-}
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -33,9 +32,7 @@ body {
   .language-level { background-color: white;
 
   	 }
-  	 
 
-  }
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
@@ -58,5 +55,4 @@ body {
 
 .contact-icon {
 	height: 1em;
-	flex-basis: 1.4em;
-}
+	flex-basis: 1.4em; }
