@@ -33,6 +33,9 @@ body {
 
   	 }
 
+ .pink-boarder {
+  background-color: #F8C8DC }
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
