@@ -1,16 +1,13 @@
-/* Use this file to use your own styles*/
-
-/* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Import Ancizar Serif font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&display=swap');
 
 /* Styles for the body */
-
 body {
-	.ibm-plex-sans-jp-regular {
-  font-family: "IBM Plex Sans JP", sans-serif;
-  font-weight: 400;
+  font-family: "Ancizar Serif", serif;
+  font-weight: 400; /* or any weight between 300 and 900 */
   font-style: normal;
 }
+
 
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -22,12 +19,12 @@ body {
 
 .resume-main {
 	background-color: #F8C8DC;
-	color: #ff69b4
+	color: #ff69b4;
 }
 
 .resume-aside {
 	background-color: #E0B0FF;
-	color: #ff69b4
+	color: #ff69b4;
 }
   .language-level { background-color: white;
 
